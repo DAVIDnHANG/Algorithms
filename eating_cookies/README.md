@@ -11,6 +11,10 @@ For example, for a jar of cookies with `n = 3` (the jar has 3 cookies inside it)
 
 Thus, `eating_cookies(3)` should return an answer of 4.
 
+n = 2
+1) he can eat 1 cookies at a time
+2) he can eat 2 cookies simulateous
+
 ## Testing
 
 For this problem, there's a test that tests your implementation with small inputs (n <= 10). There's also a separate test that tests your implementation with large inputs (n >= 50). 
